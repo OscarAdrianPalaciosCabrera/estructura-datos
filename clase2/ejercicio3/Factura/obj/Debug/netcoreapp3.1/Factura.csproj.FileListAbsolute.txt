@@ -1,0 +1,26 @@
+C:\Users\junan\source\repos\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.exe
+C:\Users\junan\source\repos\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.deps.json
+C:\Users\junan\source\repos\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.runtimeconfig.json
+C:\Users\junan\source\repos\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.runtimeconfig.dev.json
+C:\Users\junan\source\repos\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.dll
+C:\Users\junan\source\repos\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.pdb
+C:\Users\junan\source\repos\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.AssemblyInfo.cs
+C:\Users\junan\source\repos\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.dll
+C:\Users\junan\source\repos\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.pdb
+C:\Users\junan\source\repos\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.genruntimeconfig.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\bin\Debug\netcoreapp3.1\Factura.exe
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\bin\Debug\netcoreapp3.1\Factura.deps.json
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\bin\Debug\netcoreapp3.1\Factura.runtimeconfig.json
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\bin\Debug\netcoreapp3.1\Factura.runtimeconfig.dev.json
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\bin\Debug\netcoreapp3.1\Factura.dll
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\bin\Debug\netcoreapp3.1\Factura.pdb
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\obj\Debug\netcoreapp3.1\Factura.csprojAssemblyReference.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\obj\Debug\netcoreapp3.1\Factura.AssemblyInfoInputs.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\obj\Debug\netcoreapp3.1\Factura.AssemblyInfo.cs
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\obj\Debug\netcoreapp3.1\Factura.csproj.CoreCompileInputs.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\obj\Debug\netcoreapp3.1\Factura.dll
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\obj\Debug\netcoreapp3.1\Factura.pdb
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio3\Factura\obj\Debug\netcoreapp3.1\Factura.genruntimeconfig.cache

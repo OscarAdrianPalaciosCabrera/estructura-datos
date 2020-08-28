@@ -1,0 +1,13 @@
+C:\Users\junan\source\repos\NumPrim\NumPrim\obj\Debug\netcoreapp3.1\NumPrim.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\NumPrim\NumPrim\obj\Debug\netcoreapp3.1\NumPrim.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\NumPrim\NumPrim\obj\Debug\netcoreapp3.1\NumPrim.AssemblyInfo.cs
+C:\Users\junan\source\repos\NumPrim\NumPrim\obj\Debug\netcoreapp3.1\NumPrim.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\NumPrim\NumPrim\bin\Debug\netcoreapp3.1\NumPrim.exe
+C:\Users\junan\source\repos\NumPrim\NumPrim\bin\Debug\netcoreapp3.1\NumPrim.deps.json
+C:\Users\junan\source\repos\NumPrim\NumPrim\bin\Debug\netcoreapp3.1\NumPrim.runtimeconfig.json
+C:\Users\junan\source\repos\NumPrim\NumPrim\bin\Debug\netcoreapp3.1\NumPrim.runtimeconfig.dev.json
+C:\Users\junan\source\repos\NumPrim\NumPrim\bin\Debug\netcoreapp3.1\NumPrim.dll
+C:\Users\junan\source\repos\NumPrim\NumPrim\bin\Debug\netcoreapp3.1\NumPrim.pdb
+C:\Users\junan\source\repos\NumPrim\NumPrim\obj\Debug\netcoreapp3.1\NumPrim.dll
+C:\Users\junan\source\repos\NumPrim\NumPrim\obj\Debug\netcoreapp3.1\NumPrim.pdb
+C:\Users\junan\source\repos\NumPrim\NumPrim\obj\Debug\netcoreapp3.1\NumPrim.genruntimeconfig.cache

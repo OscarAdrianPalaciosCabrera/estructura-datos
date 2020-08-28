@@ -1,0 +1,26 @@
+C:\Users\junan\source\repos\PasFerro\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.exe
+C:\Users\junan\source\repos\PasFerro\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.deps.json
+C:\Users\junan\source\repos\PasFerro\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.runtimeconfig.json
+C:\Users\junan\source\repos\PasFerro\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.runtimeconfig.dev.json
+C:\Users\junan\source\repos\PasFerro\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.dll
+C:\Users\junan\source\repos\PasFerro\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.pdb
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.AssemblyInfo.cs
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.dll
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.pdb
+C:\Users\junan\source\repos\PasFerro\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.genruntimeconfig.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.exe
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.deps.json
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.runtimeconfig.json
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.runtimeconfig.dev.json
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.dll
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\bin\Debug\netcoreapp3.1\PasFerro.pdb
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.csprojAssemblyReference.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.AssemblyInfoInputs.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.AssemblyInfo.cs
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.csproj.CoreCompileInputs.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.dll
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.pdb
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicio6\PasFerro\obj\Debug\netcoreapp3.1\PasFerro.genruntimeconfig.cache
