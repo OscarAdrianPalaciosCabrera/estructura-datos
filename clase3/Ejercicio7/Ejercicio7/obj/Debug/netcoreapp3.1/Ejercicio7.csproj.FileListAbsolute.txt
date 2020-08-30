@@ -1,0 +1,26 @@
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.exe
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.deps.json
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.json
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.dev.json
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.dll
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.pdb
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfo.cs
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.dll
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.pdb
+C:\Users\junan\source\repos\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.genruntimeconfig.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.exe
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.deps.json
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.json
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.dev.json
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.dll
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.pdb
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.csprojAssemblyReference.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfoInputs.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfo.cs
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.csproj.CoreCompileInputs.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.dll
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.pdb
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase3\Ejercicio7\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.genruntimeconfig.cache
