@@ -1,0 +1,13 @@
+C:\Users\junan\source\repos\Matriz3\Matriz3\bin\Debug\netcoreapp3.1\Matriz3.exe
+C:\Users\junan\source\repos\Matriz3\Matriz3\bin\Debug\netcoreapp3.1\Matriz3.deps.json
+C:\Users\junan\source\repos\Matriz3\Matriz3\bin\Debug\netcoreapp3.1\Matriz3.runtimeconfig.json
+C:\Users\junan\source\repos\Matriz3\Matriz3\bin\Debug\netcoreapp3.1\Matriz3.runtimeconfig.dev.json
+C:\Users\junan\source\repos\Matriz3\Matriz3\bin\Debug\netcoreapp3.1\Matriz3.dll
+C:\Users\junan\source\repos\Matriz3\Matriz3\bin\Debug\netcoreapp3.1\Matriz3.pdb
+C:\Users\junan\source\repos\Matriz3\Matriz3\obj\Debug\netcoreapp3.1\Matriz3.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\Matriz3\Matriz3\obj\Debug\netcoreapp3.1\Matriz3.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\Matriz3\Matriz3\obj\Debug\netcoreapp3.1\Matriz3.AssemblyInfo.cs
+C:\Users\junan\source\repos\Matriz3\Matriz3\obj\Debug\netcoreapp3.1\Matriz3.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\Matriz3\Matriz3\obj\Debug\netcoreapp3.1\Matriz3.dll
+C:\Users\junan\source\repos\Matriz3\Matriz3\obj\Debug\netcoreapp3.1\Matriz3.pdb
+C:\Users\junan\source\repos\Matriz3\Matriz3\obj\Debug\netcoreapp3.1\Matriz3.genruntimeconfig.cache
