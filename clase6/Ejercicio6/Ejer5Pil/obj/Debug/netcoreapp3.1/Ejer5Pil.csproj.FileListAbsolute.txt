@@ -1,0 +1,13 @@
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\bin\Debug\netcoreapp3.1\Ejer5Pil.exe
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\bin\Debug\netcoreapp3.1\Ejer5Pil.deps.json
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\bin\Debug\netcoreapp3.1\Ejer5Pil.runtimeconfig.json
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\bin\Debug\netcoreapp3.1\Ejer5Pil.runtimeconfig.dev.json
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\bin\Debug\netcoreapp3.1\Ejer5Pil.dll
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\bin\Debug\netcoreapp3.1\Ejer5Pil.pdb
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\obj\Debug\netcoreapp3.1\Ejer5Pil.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\obj\Debug\netcoreapp3.1\Ejer5Pil.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\obj\Debug\netcoreapp3.1\Ejer5Pil.AssemblyInfo.cs
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\obj\Debug\netcoreapp3.1\Ejer5Pil.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\obj\Debug\netcoreapp3.1\Ejer5Pil.dll
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\obj\Debug\netcoreapp3.1\Ejer5Pil.pdb
+C:\Users\junan\source\repos\Ejer5Pil\Ejer5Pil\obj\Debug\netcoreapp3.1\Ejer5Pil.genruntimeconfig.cache

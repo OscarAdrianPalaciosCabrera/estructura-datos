@@ -1,0 +1,13 @@
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\obj\Debug\netcoreapp3.1\EjercicioPil1.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\obj\Debug\netcoreapp3.1\EjercicioPil1.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\obj\Debug\netcoreapp3.1\EjercicioPil1.AssemblyInfo.cs
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\obj\Debug\netcoreapp3.1\EjercicioPil1.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\bin\Debug\netcoreapp3.1\EjercicioPil1.exe
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\bin\Debug\netcoreapp3.1\EjercicioPil1.deps.json
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\bin\Debug\netcoreapp3.1\EjercicioPil1.runtimeconfig.json
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\bin\Debug\netcoreapp3.1\EjercicioPil1.runtimeconfig.dev.json
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\bin\Debug\netcoreapp3.1\EjercicioPil1.dll
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\bin\Debug\netcoreapp3.1\EjercicioPil1.pdb
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\obj\Debug\netcoreapp3.1\EjercicioPil1.dll
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\obj\Debug\netcoreapp3.1\EjercicioPil1.pdb
+C:\Users\junan\source\repos\EjercicioPil1\EjercicioPil1\obj\Debug\netcoreapp3.1\EjercicioPil1.genruntimeconfig.cache

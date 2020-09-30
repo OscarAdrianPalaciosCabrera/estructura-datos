@@ -1,0 +1,13 @@
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\bin\Debug\netcoreapp3.1\EjercicioLis3.exe
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\bin\Debug\netcoreapp3.1\EjercicioLis3.deps.json
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\bin\Debug\netcoreapp3.1\EjercicioLis3.runtimeconfig.json
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\bin\Debug\netcoreapp3.1\EjercicioLis3.runtimeconfig.dev.json
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\bin\Debug\netcoreapp3.1\EjercicioLis3.dll
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\bin\Debug\netcoreapp3.1\EjercicioLis3.pdb
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\obj\Debug\netcoreapp3.1\EjercicioLis3.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\obj\Debug\netcoreapp3.1\EjercicioLis3.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\obj\Debug\netcoreapp3.1\EjercicioLis3.AssemblyInfo.cs
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\obj\Debug\netcoreapp3.1\EjercicioLis3.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\obj\Debug\netcoreapp3.1\EjercicioLis3.dll
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\obj\Debug\netcoreapp3.1\EjercicioLis3.pdb
+C:\Users\junan\source\repos\EjercicioLis3\EjercicioLis3\obj\Debug\netcoreapp3.1\EjercicioLis3.genruntimeconfig.cache
