@@ -1,0 +1,13 @@
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\obj\Debug\netcoreapp3.1\EjercicioCola10.csprojAssemblyReference.cache
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\obj\Debug\netcoreapp3.1\EjercicioCola10.AssemblyInfoInputs.cache
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\obj\Debug\netcoreapp3.1\EjercicioCola10.AssemblyInfo.cs
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\obj\Debug\netcoreapp3.1\EjercicioCola10.csproj.CoreCompileInputs.cache
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\bin\Debug\netcoreapp3.1\EjercicioCola10.exe
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\bin\Debug\netcoreapp3.1\EjercicioCola10.deps.json
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\bin\Debug\netcoreapp3.1\EjercicioCola10.runtimeconfig.json
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\bin\Debug\netcoreapp3.1\EjercicioCola10.runtimeconfig.dev.json
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\bin\Debug\netcoreapp3.1\EjercicioCola10.dll
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\bin\Debug\netcoreapp3.1\EjercicioCola10.pdb
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\obj\Debug\netcoreapp3.1\EjercicioCola10.dll
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\obj\Debug\netcoreapp3.1\EjercicioCola10.pdb
+C:\Users\OscarAdrianPalaciosX\source\repos\EjercicioCola10\EjercicioCola10\obj\Debug\netcoreapp3.1\EjercicioCola10.genruntimeconfig.cache
